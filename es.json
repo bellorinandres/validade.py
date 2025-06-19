@@ -1,0 +1,25 @@
+{
+  "titulo": "Gestión de Validades",
+  "opciones_menu": {
+    "agregar": "1. Agregar validade",
+    "listar": "2. Listar validades (vigentes)",
+    "buscar": "3. Buscar validade por código",
+    "config": "4. Configuración",
+    "salir": "5. Salir"
+  },
+  "mensajes": {
+    "seleccion": "Selecciona una opción: ",
+    "continuar": "Presiona ENTER para continuar...",
+    "despedida": "Hasta luego 👋",
+    "opcion_invalida": "❌ Opción inválida",
+    "cancelado": "Operación cancelada",
+    "ingresa_codigo": "Ingrese el código del producto: ",
+    "ingresa_validade": "Ingrese la validade (YYYY-MM-DD): ",
+    "ingresa_cantidad": "Ingrese la cantidad: ",
+    "agregado_exito": "✅ Validade agregada correctamente.",
+    "sin_registros": "No hay registros disponibles.",
+    "ingresa_codigo_buscar": "Ingrese el código a buscar: ",
+    "registro_duplicado": "❌ Ya existe un registro con ese código y validade.",
+    "top_productos": "⭐ Top 6 productos con mayor cantidad y validade más próxima:"
+  }
+}

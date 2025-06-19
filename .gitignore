@@ -1,0 +1,24 @@
+# Archivos de la base de datos (SQLite)
+*.db
+*.sqlite
+*.db-journal
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env/
+
+# Configuración sensible
+*.env
+*.secret
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Editor/IDE
+.vscode/
+.idea/
